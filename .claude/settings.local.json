@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /c/Users/lucas/OneDrive/Documents/Coding -name *.py -o -name *.html -o -name *.js)",
+      "Read(//c/Users/lucas/AppData/Roaming/Claude/local-agent-mode-sessions/skills-plugin/9b5a5533-9298-4f9b-97ee-eea8817ee50d/fd6faea8-39cf-4f31-9620-7abf8df717cf/skills/docx/**)",
+      "Bash(python scripts/office/unpack.py \"C:\\\\Users\\\\lucas\\\\OneDrive\\\\Documents\\\\Applying\\\\CV Technical.docx\" /tmp/cv_tech_unpacked/)"
+    ]
+  }
+}
